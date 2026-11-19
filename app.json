@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Native Notes Application",
+    "slug": "native-notes-application",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "nativenotes",
+    "userInterfaceStyle": "light",
+    "plugins": ["expo-router"]
+  }
+}
